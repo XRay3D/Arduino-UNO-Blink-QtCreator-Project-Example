@@ -4,7 +4,9 @@ Arduino UNO Blink QtCreator Project Example
 Для работы с Arduino в QtCreator необходимо его немного настроить.
 Для этого необходимо:
 * Добавить к (или создать) переменной среды Path путь к папке компилятора GCC-AVR. 
-Обычно это «C:\Program Files (x86)\Arduino\hardware\tools\avr\bin»
+Обычно это
+
+«C:\Program Files (x86)\Arduino\hardware\tools\avr\bin»
 ![img3](images/img3.png)
 
 * В QtCreator в меню «Справка->О модулях…» включить следующее.
